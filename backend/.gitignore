@@ -1,0 +1,11 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+/src/generated/prisma
+
+# AI coding assistant generated skills
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
